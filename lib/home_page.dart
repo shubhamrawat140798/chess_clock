@@ -26,6 +26,7 @@ class _HomePageState extends State<HomePage> {
     3,
     5,
     10,
+    15,
     30,
   ];
   final player = AudioPlayer();
